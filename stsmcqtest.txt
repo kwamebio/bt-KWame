@@ -1,0 +1,11 @@
+1. whoami
+2. man
+3. File Permissions
+4. ls
+5. Current directory
+6. changes to /a/b/ directory
+7. git add
+8. Repository metadata and version history
+9. The latest commit in the remote repository
+10. Move file1 to file2
+11. Lists the content of a directory
